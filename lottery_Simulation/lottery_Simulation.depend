@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671738738 source:c:\users\hp\desktop\lottery_simulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
